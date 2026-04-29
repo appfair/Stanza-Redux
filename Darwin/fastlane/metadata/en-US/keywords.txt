@@ -1,1 +1,1 @@
-app,key,words
+ebook,epub,reader,books,library,reading,opds,public domain,gutenberg,offline,bookmark,catalog,classics

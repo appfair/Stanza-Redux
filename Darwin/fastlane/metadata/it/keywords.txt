@@ -1,0 +1,1 @@
+ebook,epub,lettore,libri,biblioteca,lettura,opds,pubblico dominio,gutenberg,offline,segnalibro,catalogo,classici
