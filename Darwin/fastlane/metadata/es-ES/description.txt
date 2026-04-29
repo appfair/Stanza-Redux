@@ -1,0 +1,19 @@
+Stanza Redux es un lector de libros electrónicos gratuito y de código abierto que da vida a tu biblioteca EPUB. Importa libros desde tu dispositivo, explora y descarga desde catálogos de dominio público y disfruta de una experiencia de lectura bellamente personalizable.
+
+LECTOR POTENTE
+Lee libros EPUB con suaves pases de página animados, fuentes ajustables y varios temas de lectura como Claro, Oscuro y Sepia. Personaliza el interlineado, el espaciado entre caracteres, el espaciado entre palabras, los márgenes y la alineación del texto para crear tu entorno de lectura perfecto.
+
+TU BIBLIOTECA, ORGANIZADA
+Importa archivos EPUB desde tu dispositivo o descarga libros directamente desde catálogos en línea. Tu biblioteca muestra portadas, nombres de autores y progreso de lectura de un vistazo. Busca, ordena y gestiona tu colección con facilidad.
+
+EXPLORA CATÁLOGOS DE DOMINIO PÚBLICO
+Descubre miles de libros gratuitos de fuentes seleccionadas como Standard Ebooks, Project Gutenberg y Ebooks Gratuits. Navega por categoría, busca por título o autor y descarga libros directamente en tu biblioteca. Añade tus propias fuentes de catálogo OPDS para aún más opciones.
+
+CONTINÚA DONDE LO DEJASTE
+Stanza Redux recuerda tu posición de lectura en cada libro. Marca pasajes importantes, añade notas y navega con una tabla de contenidos completa. Tu progreso siempre se guarda automáticamente.
+
+LEE A TU MANERA
+Elige entre una selección de fuentes que incluyen serif, sans-serif y tipografías personalizadas. Ajusta el tamaño de fuente del 50% al 300%. Afina la altura de línea, el espaciado entre palabras, el espaciado entre caracteres y los márgenes de página con controles de acceso rápido directamente en el lector.
+
+ABIERTO Y GRATUITO
+Stanza Redux es software de código abierto bajo licencia GPL. Sin anuncios, sin seguimiento, sin suscripciones. Tus libros son tuyos.

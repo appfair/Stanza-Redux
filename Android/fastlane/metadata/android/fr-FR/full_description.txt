@@ -1,0 +1,19 @@
+Stanza Redux est un lecteur d'ebooks gratuit et open source qui donne vie à votre bibliothèque EPUB. Importez des livres depuis votre appareil, parcourez et téléchargez depuis des catalogues du domaine public et profitez d'une expérience de lecture magnifiquement personnalisable.
+
+<b>Lecteur puissant</b>
+Lisez des livres EPUB avec des transitions de pages animées et fluides, des polices ajustables et plusieurs thèmes de lecture dont Clair, Sombre et Sépia. Personnalisez l'interligne, l'espacement des caractères, l'espacement des mots, les marges et l'alignement du texte pour créer votre environnement de lecture idéal.
+
+<b>Votre bibliothèque, organisée</b>
+Importez des fichiers EPUB depuis votre appareil ou téléchargez des livres directement depuis des catalogues en ligne. Votre bibliothèque affiche les couvertures, les noms d'auteurs et la progression de lecture en un coup d'œil. Recherchez, triez et gérez votre collection en toute simplicité.
+
+<b>Parcourez les catalogues du domaine public</b>
+Découvrez des milliers de livres gratuits issus de sources soignées comme Standard Ebooks, Project Gutenberg et Ebooks Gratuits. Parcourez par catégorie, cherchez par titre ou auteur et téléchargez les livres directement dans votre bibliothèque. Ajoutez vos propres flux de catalogue OPDS pour encore plus de choix.
+
+<b>Reprenez où vous vous êtes arrêté</b>
+Stanza Redux mémorise votre position de lecture dans chaque livre. Marquez les passages importants, ajoutez des notes et naviguez grâce à une table des matières complète. Votre progression est toujours sauvegardée automatiquement.
+
+<b>Lisez à votre façon</b>
+Choisissez parmi une sélection de polices, dont serif, sans-serif et caractères personnalisés. Ajustez la taille de police de 50% à 300%. Affinez la hauteur de ligne, l'espacement des mots, l'espacement des caractères et les marges de page avec des commandes d'accès rapide directement dans le lecteur.
+
+<b>Ouvert et gratuit</b>
+Stanza Redux est un logiciel open source sous licence GPL. Pas de publicités, pas de pistage, pas d'abonnements. Vos livres vous appartiennent.
