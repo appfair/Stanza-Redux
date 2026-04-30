@@ -1,1 +1,1 @@
-ebook,epub,pembaca,buku,perpustakaan,membaca,opds,domain publik,gutenberg,luring,markah,katalog,klasik
+ebook,epub,pembaca,buku,perpustakaan,membaca,opds,domain publik,gutenberg,luring,markah,katalog

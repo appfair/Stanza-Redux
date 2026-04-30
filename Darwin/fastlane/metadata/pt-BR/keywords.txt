@@ -1,1 +1,1 @@
-ebook,epub,leitor,livros,biblioteca,leitura,opds,domínio público,gutenberg,offline,marcador,catálogo,clássicos
+ebook,epub,leitor,livros,biblioteca,leitura,opds,domínio público,gutenberg,offline,marcador

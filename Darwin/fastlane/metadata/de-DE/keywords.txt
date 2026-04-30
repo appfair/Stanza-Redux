@@ -1,1 +1,1 @@
-ebook,epub,reader,bücher,bibliothek,lesen,opds,public domain,gutenberg,offline,lesezeichen,katalog,klassiker
+ebook,epub,reader,bücher,bibliothek,lesen,opds,public domain,gutenberg,offline,lesezeichen,katalog
